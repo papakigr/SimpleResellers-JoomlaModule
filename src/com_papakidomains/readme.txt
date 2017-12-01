@@ -1,0 +1,1 @@
+Upon install, you have to fill in your Api Key in order to authenticate search requests.

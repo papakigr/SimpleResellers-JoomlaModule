@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <fieldset
+		name="papakidomains_config"
+		label="Component Configuration"
+	>
+    <field
+			name="api_key"
+			type="text" size="140"
+			label="Your Reseller Api Key"
+			default=""
+		>
+    </field>
+  </fieldset>
+</config>
